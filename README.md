@@ -28,6 +28,5 @@ Result of clustering/decoding will appear as output.csv. See author for question
 
 ## License
 
-Copyright (C) 2022 Harshaan Sekhon, sskhon2014@berkeley.edu - All Rights Reserved
-
+Copyright (C) California Institute of Technology - All Rights Reserved
 See LISCENCE.md for more details.
