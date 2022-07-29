@@ -24,7 +24,7 @@ Result of clustering/decoding will appear as output.csv. See author for question
 
 ## Version History
 
-* 1.0, Initial Release
+* 1.0.0: Initial Release
 
 ## License
 
