@@ -28,8 +28,7 @@ The following are the results of UMAP generation and clustering applied to the a
 
 ## Test Run DeepDecode
 
-Simply fire up the attached jupyter notebook and watch it go!
-
+A proof of concept test bed of DeepDecode is included as a jupyter notebook within this directory. To implement DeepDecode or to request a copy, please reach out to the author directly.
 
 ## Author
 
