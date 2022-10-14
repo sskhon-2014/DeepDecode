@@ -4,6 +4,8 @@
 
 DeepDecode is a deep-learning algorithm written for the primary purpose of decoding sequentially encoded molecular fluorescence data (eg. SeqFISH, SeqFISH+ data). Given several 2D images that represent dispirate "barcoding rounds," this algorithm can essentially detect signal and determine parity all in one step. This takes much of the guesswork out of signal detection and decoding of SeqFISH datasets.
 
+## Neural Network Architecture
+![Alt text](model.png)
 
 ## DeepDecoded Dataset Result - Mouse Testes
 ### High-Resolution Tissue Segmentation
@@ -17,11 +19,6 @@ The following are the results of UMAP generation and clustering applied to the a
 ![Alt text](mouse-testes-parameters.png)
 
 ### Credit: Experiment performed by the Cai Lab at Caltech.
-
-
-
-## Neural Network Architecture
-![Alt text](model.png)
 
 ## Example Run on Gold-Standard Data
 ![Alt text](dev_im-3.png)
